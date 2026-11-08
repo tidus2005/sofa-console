@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <UseWPF>true</UseWPF>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>switcher.ico</ApplicationIcon>
+    <AssemblyName>DisplaySceneSwitcher</AssemblyName>
+    <Version>2.4.6</Version>
+    <Description>沙发控制台：电脑电视切换、鼠标侧键与音量</Description>
+  </PropertyGroup>
+  <ItemGroup><Compile Remove="backup-*/**/*.cs;tests/**/*.cs" /></ItemGroup>
+  <ItemGroup><Using Include="System.IO" /></ItemGroup>
+  <ItemGroup><PackageReference Include="HidSharp" Version="2.6.4" /></ItemGroup>
+</Project>

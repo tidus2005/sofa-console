@@ -1,0 +1,920 @@
+[
+  {
+    "Button": 2,
+    "Kind": "按下",
+    "TimeMs": 497965,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "松开",
+    "TimeMs": 498077,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "按下",
+    "TimeMs": 499298,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "松开",
+    "TimeMs": 499382,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "按下",
+    "TimeMs": 499481,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "松开",
+    "TimeMs": 499586,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "按下",
+    "TimeMs": 500798,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "松开",
+    "TimeMs": 500883,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "按下",
+    "TimeMs": 500998,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "松开",
+    "TimeMs": 501116,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "按下",
+    "TimeMs": 501215,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "松开",
+    "TimeMs": 501258,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "按下",
+    "TimeMs": 501415,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "松开",
+    "TimeMs": 501512,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "按下",
+    "TimeMs": 502181,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "松开",
+    "TimeMs": 504235,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "按下",
+    "TimeMs": 504866,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "松开",
+    "TimeMs": 506149,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "按下",
+    "TimeMs": 506415,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "松开",
+    "TimeMs": 507597,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "按下",
+    "TimeMs": 507856,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "松开",
+    "TimeMs": 508862,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "按下",
+    "TimeMs": 510640,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "松开",
+    "TimeMs": 510743,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "按下",
+    "TimeMs": 510832,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "松开",
+    "TimeMs": 510929,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "按下",
+    "TimeMs": 511015,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "松开",
+    "TimeMs": 511106,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "按下",
+    "TimeMs": 511532,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "松开",
+    "TimeMs": 511632,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "按下",
+    "TimeMs": 511698,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "松开",
+    "TimeMs": 511810,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "按下",
+    "TimeMs": 512415,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "松开",
+    "TimeMs": 512509,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "按下",
+    "TimeMs": 512599,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "松开",
+    "TimeMs": 512688,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "按下",
+    "TimeMs": 513348,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "松开",
+    "TimeMs": 513452,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "按下",
+    "TimeMs": 514298,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "松开",
+    "TimeMs": 514383,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "按下",
+    "TimeMs": 514465,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "松开",
+    "TimeMs": 514577,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "按下",
+    "TimeMs": 515098,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "松开",
+    "TimeMs": 515201,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "按下",
+    "TimeMs": 515298,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "松开",
+    "TimeMs": 515381,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "按下",
+    "TimeMs": 515490,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "松开",
+    "TimeMs": 515567,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "按下",
+    "TimeMs": 516581,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "松开",
+    "TimeMs": 517674,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "按下",
+    "TimeMs": 518007,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "松开",
+    "TimeMs": 519002,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "按下",
+    "TimeMs": 521956,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "松开",
+    "TimeMs": 524571,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "按下",
+    "TimeMs": 525198,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "松开",
+    "TimeMs": 526398,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "按下",
+    "TimeMs": 532315,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "按下",
+    "TimeMs": 532317,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "松开",
+    "TimeMs": 532578,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 537445,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 538218,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 539209,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 539388,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 539949,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 540655,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "right",
+    "TimeMs": 541276,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "right",
+    "TimeMs": 541547,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "right",
+    "TimeMs": 541847,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 543190,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 543586,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 544510,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 544961,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 545229,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 545590,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 545770,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 546010,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 546227,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 546400,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 546781,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 546955,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 547360,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "wheeldown",
+    "TimeMs": 548117,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "wheelup",
+    "TimeMs": 548311,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "wheeldown",
+    "TimeMs": 551185,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 559495,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 560710,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 560898,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 561070,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 562180,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 563087,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 563260,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 563411,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 564093,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 564400,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 564632,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 564858,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "right",
+    "TimeMs": 565225,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 573445,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 573715,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 573940,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 574112,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "right",
+    "TimeMs": 574367,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 574855,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 575088,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "按下",
+    "TimeMs": 579132,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "按下",
+    "TimeMs": 579140,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "松开",
+    "TimeMs": 579379,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 579977,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 580411,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 580623,
+    "Flags": 0
+  },
+  {
+    "Button": 2,
+    "Kind": "按下",
+    "TimeMs": 582248,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "松开",
+    "TimeMs": 582325,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "按下",
+    "TimeMs": 582498,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "松开",
+    "TimeMs": 582602,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "按下",
+    "TimeMs": 583390,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "松开",
+    "TimeMs": 583495,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "按下",
+    "TimeMs": 583731,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "松开",
+    "TimeMs": 583896,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 585317,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 585761,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 586126,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 586566,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 586772,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 587147,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 587439,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 587784,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 588085,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 588257,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 588437,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 588580,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "right",
+    "TimeMs": 589540,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "right",
+    "TimeMs": 589712,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "right",
+    "TimeMs": 589885,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 590117,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 590305,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 590485,
+    "Flags": 0
+  },
+  {
+    "Button": 2,
+    "Kind": "按下",
+    "TimeMs": 590867,
+    "Flags": 1
+  },
+  {
+    "Button": 2,
+    "Kind": "松开",
+    "TimeMs": 593837,
+    "Flags": 1
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 595105,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 595300,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 595457,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 607788,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 608179,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 608425,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 608822,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 609011,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 609235,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "right",
+    "TimeMs": 609640,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "right",
+    "TimeMs": 609902,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "right",
+    "TimeMs": 610075,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 610247,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "right",
+    "TimeMs": 610577,
+    "Flags": 0
+  },
+  {
+    "Button": 1,
+    "Kind": "left",
+    "TimeMs": 610600,
+    "Flags": 0
+  }
+]
